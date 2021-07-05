@@ -1,3 +1,3 @@
 # asp.net_react_crud
 
-react and .net studentDB
+react and .net with studentDB
