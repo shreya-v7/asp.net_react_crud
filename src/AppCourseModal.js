@@ -60,7 +60,6 @@ export class AddCourseModal extends Component{
                             </Col>
                         </Row>
                     </Modal.Body>
-
                     <Modal.Footer>
                         <button variant="danger" onClick={this.props.onHide}>Close</button>
                     </Modal.Footer>
